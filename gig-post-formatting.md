@@ -28,4 +28,4 @@ A brief paragraph or two about yourself and what you're looking for.
 ```
 
 Notes: 
-- Please upload your resume and link to it, uploaded resumes may be deleted
+- Please upload your resume somewhere online (github, dropbox) and link to it, uploaded resumes may be deleted
