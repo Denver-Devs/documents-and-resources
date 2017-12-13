@@ -15,7 +15,7 @@ Optional brief job description. No more than 2-3 sentences.
 [Link to position]
 ```
 *Notes:* 
-- Links with large image unfurls may get deleted if they're taking up space
+- Links with large image unfurls may get deleted
 - Do not upload files to the Slack, link to them. 
 
 ---
@@ -28,4 +28,4 @@ A brief paragraph or two about yourself and what you're looking for.
 ```
 
 Notes: 
-- Please upload your resume and link to it, uploaded resumes will be deleted
+- Please upload your resume and link to it, uploaded resumes may be deleted
