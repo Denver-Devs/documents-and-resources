@@ -16,7 +16,8 @@ Optional brief job description. No more than 2-3 sentences / bullet points.
 ```
 *Notes:* 
 - Links with large image unfurls may get deleted
-- Do not upload files to the Slack, link to them. 
+- Do not upload files to the Slack, link to them.
+- Tip: Be conciencous of our diversity and use gender neutral language.
 
 ---
 
