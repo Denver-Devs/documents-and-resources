@@ -10,7 +10,7 @@ Please follow this format & guidelines when submitting gig posts to the Denver D
 ```
 Job Opening Title
 
-Optional brief job description. No more than 2-3 sentences. 
+Optional brief job description. No more than 2-3 sentences / bullet points. 
 
 [Link to position]
 ```
